@@ -1,0 +1,64 @@
+
+
+h1 { 
+    color: rgb(207, 64, 88);  
+    font-size: 50px ;
+      font-family: cursive;
+  } 
+  body { 
+   background-color: rgb(255, 255, 255);
+  }
+  h2 { 
+      color: aqua;
+      font-size: 30px ;
+      font-family: cursive;
+  }
+  p { 
+      font-size: 20px;
+      font-family: "Franklin gothic Medium","Arial Narrow", Arial, sans-serif;
+  }
+  .icolaboración {
+      width: 350px;
+  height: 350px;
+  font-size: 20px ;
+   }
+   h3 {
+    color: aquamarine; 
+    font-size: 30px ;
+  font-family: "Franklin gothic Medium","Arial Narrow", Arial, sans-serif;   
+}
+h4 {
+    font-size: 20px ;
+  font-family: "Franklin gothic Medium","Arial Narrow", Arial, sans-serif;   
+}
+ .imagen { 
+    width: 500px;
+    height: 550px;
+}
+.imagen{
+    display:block;
+    margin:auto;
+}
+ h1 {
+     text-align: center;
+    display:block;
+    margin:auto;
+}
+ h2 {
+    text-align: center;
+   display:block;
+   margin:auto;
+}
+h4 {
+    text-align: center;
+   display:block;
+   margin:auto;
+}
+.icolaboración {
+   display:block;
+   margin:auto;
+}
+.videoj {
+   display:block;
+   margin:auto;
+}
